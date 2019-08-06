@@ -1,0 +1,18 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFrameworks>netcoreapp3.0;netcoreapp2.0</TargetFrameworks>
+    <Version>1.0.1</Version>
+    <Authors>Detmach</Authors>
+    <Product>Taghelpers</Product>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <PackageId>TagHelpersNetCore</PackageId>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.Mvc.ViewFeatures" Version="2.2.0" />
+    <PackageReference Include="Microsoft.AspNetCore.Razor" Version="2.2.0" />
+    <PackageReference Include="Microsoft.Extensions.Localization.Abstractions" Version="2.2.0" />
+  </ItemGroup>
+
+</Project>
