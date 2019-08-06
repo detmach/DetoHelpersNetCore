@@ -6,7 +6,7 @@ using System.Collections.Generic;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace TagsNetCore.Scripts
+namespace DetoHelpersNetCore.Scripts
 {
     /// <summary>
     /// Kullanıcılacak Yer Layout <scripts render="true"></scripts>

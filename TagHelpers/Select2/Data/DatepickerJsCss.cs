@@ -5,7 +5,7 @@ using System.Collections.Generic;
 using System.Diagnostics.Contracts;
 using System.Text;
 
-namespace TagsNetCore.Select2.Data
+namespace DetoHelpersNetCore.Select2.Data
 {
     [HtmlTargetElement("datepicker-jscss")]
     public class DatepickerJsCss : TagHelper

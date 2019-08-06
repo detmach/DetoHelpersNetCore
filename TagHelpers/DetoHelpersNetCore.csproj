@@ -6,7 +6,10 @@
     <Authors>Detmach</Authors>
     <Product>Taghelpers</Product>
     <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
-    <PackageId>TagHelpersNetCore</PackageId>
+    <PackageId>DetoHelpersNetCore</PackageId>
+    <PackageProjectUrl>https://github.com/detmach/DetoHelpersNetCore.git</PackageProjectUrl>
+    <PackageIconUrl>https://secure.gravatar.com/avatar/f9b39eac9dc240d0d694438565b29cd1?s=384</PackageIconUrl>
+    <RepositoryUrl>https://github.com/detmach/DetoHelpersNetCore.git</RepositoryUrl>
   </PropertyGroup>
 
   <ItemGroup>

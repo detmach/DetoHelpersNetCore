@@ -9,7 +9,7 @@ using System.IO;
 using System.Text;
 using System.Text.Encodings.Web;
 
-namespace TagsNetCore.Select2.Data
+namespace DetoHelpersNetCore.Select2.Data
 {
     [HtmlTargetElement("datepicker")]
     public class Datepicker : TagHelper
